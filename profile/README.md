@@ -12,14 +12,19 @@
 
 [![Website](https://img.shields.io/badge/Website-zevy.ai-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zevy.ai)
 [![Pricing](https://img.shields.io/badge/Pricing-Plans-22D3EE?style=for-the-badge)](https://zevy.ai/pricing)
-[![Careers](https://img.shields.io/badge/Careers-Hiring-A855F7?style=for-the-badge)](https://zevy.ai/careers)
-[![Status](https://img.shields.io/badge/Status-Pre--Launch-EAB308?style=for-the-badge)](https://zevy.ai)
+[![Design Partners](https://img.shields.io/badge/Design_Partners-Wanted-A855F7?style=for-the-badge)](mailto:hello@zevy.ai)
+[![Open for business](https://img.shields.io/badge/Open_for_business-June_2026-10B981?style=for-the-badge)](https://zevy.ai)
+[![Public launch](https://img.shields.io/badge/Public_launch-July_2026-EAB308?style=for-the-badge)](https://zevy.ai)
 
 </div>
 
 ---
 
-> **Note** — ZevyAI is in pre-launch. The legal entity will be **activated on **June 15, 2026****. Until that date the project is in private build & invite testing only.
+> **Status** — ZevyAI is in pre-launch.
+> - **Open for business:** mid-**June 2026** (commercial engagements and design-partner contracts open from this date).
+> - **Public launch:** **July 2026**.
+>
+> Until then the platform is in private build with selected design partners.
 
 ## What we build
 
@@ -76,11 +81,13 @@ Native connectors to the tools modern teams already run on — CRM, support, pro
 
 <br />
 
-## For builders
+## Design partners wanted
 
-We are hiring engineers, designers, and operators who care about quality.
+ZevyAI is not hiring yet — we're looking for **collaborators and design partners**: early teams, founders, and operators who want to help shape the product and get hands-on access before public launch.
 
-→ **[zevy.ai/careers](https://zevy.ai/careers)**
+If that's you, let's talk.
+
+→ **[hello@zevy.ai](mailto:hello@zevy.ai)**
 
 <br />
 
@@ -97,7 +104,7 @@ We are hiring engineers, designers, and operators who care about quality.
 <div align="center">
 
 **Founded by [@pourya-r](https://github.com/pourya-r)**
-Legal entity activates **June 15, 2026**
+Open for business — **June 2026** · Public launch — **July 2026**
 
 <sub>© ZevyAI — all rights reserved.</sub>
 
