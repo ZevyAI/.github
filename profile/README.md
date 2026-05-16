@@ -10,11 +10,11 @@
 
 **One chat. A roster of specialists. All working in parallel.**
 
-[![Website](https://img.shields.io/badge/Website-zevy.ai-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zevy.ai)
-[![Pricing](https://img.shields.io/badge/Pricing-Plans-22D3EE?style=for-the-badge)](https://zevy.ai/pricing)
-[![Design Partners](https://img.shields.io/badge/Design_Partners-Wanted-A855F7?style=for-the-badge)](mailto:hello@zevy.ai)
-[![Open for business](https://img.shields.io/badge/Open_for_business-June_2026-10B981?style=for-the-badge)](https://zevy.ai)
-[![Public launch](https://img.shields.io/badge/Public_launch-July_2026-EAB308?style=for-the-badge)](https://zevy.ai)
+[![Website](https://img.shields.io/badge/Website-zevyai.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zevyai.com)
+[![Pricing](https://img.shields.io/badge/Pricing-Plans-22D3EE?style=for-the-badge)](https://zevyai.com/pricing)
+[![Design Partners](https://img.shields.io/badge/Design_Partners-Wanted-A855F7?style=for-the-badge)](mailto:hello@zevyai.com)
+[![Open for business](https://img.shields.io/badge/Open_for_business-June_2026-10B981?style=for-the-badge)](https://zevyai.com)
+[![Public launch](https://img.shields.io/badge/Public_launch-July_2026-EAB308?style=for-the-badge)](https://zevyai.com)
 
 </div>
 
@@ -87,15 +87,15 @@ ZevyAI is not hiring yet — we're looking for **collaborators and design partne
 
 If that's you, let's talk.
 
-→ **[hello@zevy.ai](mailto:hello@zevy.ai)**
+→ **[hello@zevyai.com](mailto:hello@zevyai.com)**
 
 <br />
 
 ## Stay connected
 
-- Website — [zevy.ai](https://zevy.ai)
-- Updates — [zevy.ai/blog](https://zevy.ai/blog)
-- Contact — [hello@zevy.ai](mailto:hello@zevy.ai)
+- Website — [zevyai.com](https://zevyai.com)
+- Updates — [zevyai.com/blog](https://zevyai.com/blog)
+- Contact — [hello@zevyai.com](mailto:hello@zevyai.com)
 
 <br />
 
