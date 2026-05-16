@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <!-- Background conic-like gradient (cyan -> violet -> cyan) approximated with a radial + linear blend -->
+    <linearGradient id="bgRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#0EA5E9" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="zStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E6F4FF"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <!-- soft inset shadow -->
+    <filter id="innerShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feOffset dx="0" dy="2"/>
+      <feComposite in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowDiff"/>
+      <feFlood flood-color="#000" flood-opacity="0.4"/>
+      <feComposite in2="shadowDiff" operator="in"/>
+      <feComposite in2="SourceGraphic" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- ambient glow -->
+  <rect width="1024" height="1024" rx="240" fill="url(#glow)"/>
+
+  <!-- gradient ring (outer square) -->
+  <rect x="48" y="48" width="928" height="928" rx="224" fill="url(#bgRing)"/>
+
+  <!-- inner dark plate -->
+  <rect x="96" y="96" width="832" height="832" rx="184" fill="#0B1220"/>
+
+  <!-- subtle inner border highlight -->
+  <rect x="96" y="96" width="832" height="832" rx="184" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="3"/>
+
+  <!-- Z mark -->
+  <path d="M 296 320 L 728 320 L 360 720 L 728 720"
+        fill="none"
+        stroke="url(#zStroke)"
+        stroke-width="96"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- accent dot (top-right) -->
+  <circle cx="760" cy="280" r="36" fill="#A5F3FC"/>
+  <circle cx="760" cy="280" r="36" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="4"/>
+</svg>
