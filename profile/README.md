@@ -1,51 +1,36 @@
+<div align="center">
+
 # ZevyAI
 
-### Enterprise AI Operations Platform
+### The AI operations platform for modern teams.
 
-**One chat. A roster of specialists. All working in parallel.**
+One chat. A roster of specialists. All working in parallel.
 
-ZevyAI is a production-first SaaS platform that helps teams design, orchestrate, and operate AI-powered workflows across products, support, operations, and internal tooling.
+[Website](https://zevy.ai) · [Product](https://zevy.ai) · [Pricing](https://zevy.ai/pricing) · [Docs](https://zevy.ai/docs) · [Careers](https://zevy.ai/careers)
 
-## Platform Focus
+</div>
 
-- **Multi-agent orchestration** for delegated execution and supervised automation
-- **Workflow + voice automation** with composable actions and policy-aware controls
-- **Integration hub** for external systems, provider adapters, and enterprise connectors
-- **Operator-grade control plane** for reliability, auditability, and governance
+---
 
-## Built for Enterprise Teams
+## What we do
 
-- Security-first architecture with explicit access boundaries
-- Observability, run traceability, and operational diagnostics
-- Modular platform design for controlled extensibility
-- DB-driven configuration and policy-based runtime behavior
+ZevyAI helps teams design, run, and govern AI-powered workflows — across products, customer operations, internal tooling, and revenue motion. One conversation, many specialists, end-to-end automation with operator-grade control.
 
-## Product Surfaces
+## Why teams choose ZevyAI
 
-- **Customer applications:** web, desktop, and mobile experiences
-- **Internal operations:** back-office and platform control interfaces
-- **Core runtime:** API, workers, memory services, and integration infrastructure
+- **Multi-agent by design** — delegate complex work to the right specialist, in parallel
+- **Workflow + voice automation** — composable actions with policy-aware controls
+- **Enterprise integrations** — connect the systems your team already runs on
+- **Built for production** — security, observability, and governance from day one
 
-## Core Repositories
+## For builders
 
-### Platform Core
-- [`assistant-platform`](https://github.com/ZevyAI/assistant-platform) - primary monorepo and platform source of truth
-- [`assistant-api`](https://github.com/ZevyAI/assistant-api) - API-focused service boundary
+We are hiring engineers, designers, and operators who care about quality.
 
-### Product Experiences
-- [`zevy-webapp`](https://github.com/ZevyAI/zevy-webapp) - customer-facing web product
-- [`zevy-back-office`](https://github.com/ZevyAI/zevy-back-office) - operator and admin tooling
-- [`zevy-desktop`](https://github.com/ZevyAI/zevy-desktop) - desktop client
-- [`zevy-mobile`](https://github.com/ZevyAI/zevy-mobile) - mobile client
+→ [zevy.ai/careers](https://zevy.ai/careers)
 
-### Platform Services and Shared Foundations
-- [`zevy-connector-hub`](https://github.com/ZevyAI/zevy-connector-hub) - integration and connector runtime
-- [`zevy-memory`](https://github.com/ZevyAI/zevy-memory) - memory and retrieval services
-- [`zevy-shared-py`](https://github.com/ZevyAI/zevy-shared-py) - shared Python packages
-- [`zevy-shared-ts`](https://github.com/ZevyAI/zevy-shared-ts) - shared TypeScript packages
-- [`zevy-shared-ui`](https://github.com/ZevyAI/zevy-shared-ui) - shared design system and UI primitives
+## Stay connected
 
-## Company
-
-- Website: [zevy.ai](https://zevy.ai)
-- GitHub Organization: [github.com/ZevyAI](https://github.com/ZevyAI)
+- Website — [zevy.ai](https://zevy.ai)
+- Updates — [zevy.ai/blog](https://zevy.ai/blog)
+- Contact — [hello@zevy.ai](mailto:hello@zevy.ai)
