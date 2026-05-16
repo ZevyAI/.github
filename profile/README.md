@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ZevyAI/.github/main/profile/assets/banner.jpg" alt="ZevyAI — The intelligent workflow layer for your stack." width="100%" />
+<img src="https://raw.githubusercontent.com/ZevyAI/.github/main/profile/assets/banner.png" alt="ZevyAI — The intelligent workflow layer for your stack." width="100%" />
 
 <br />
 
@@ -33,8 +33,8 @@ ZevyAI helps teams design, run, and govern AI-powered workflows — across produ
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZevyAI/.github/main/profile/assets/delegation.png" alt="Multi-agent delegation" width="85%" />
-  <br /><sub><b>Delegation</b> — break work into subtasks, pick the right model, run them in parallel.</sub>
+  <img src="https://raw.githubusercontent.com/ZevyAI/.github/main/profile/assets/orchestrator.png" alt="ZevyAI Orchestrator mode — multi-agent decision map executing a real workflow" width="100%" />
+  <br /><sub><b>ZevyAI in action</b> — Orchestrator mode coordinates multiple specialists (Research, Analyst, Browser, Copywriter, Scheduler, Email) on a single goal, with live cost, confidence, and progress.</sub>
 </div>
 
 <br />
